@@ -17,7 +17,7 @@ export default function Contact() {
         </a>
 
         <a
-          href="https://github.com/Sindhzzz"
+          href="https://github.com/Sindhuu-B"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-gray-800 transition"
